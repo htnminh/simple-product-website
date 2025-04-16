@@ -7,6 +7,8 @@ Week 1 - Exercise 1.1
 
 Name: Hoang Tran Nhat Minh
 
+GitHub repository: https://github.com/htnminh/simple-product-website
+
 ## Preview
 Captured with [GoFullPage - Full Page Screen Capture](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl).
 
