@@ -1,11 +1,9 @@
 # M-Dell: Dell XPS 13 9345 Premium Laptop website
 
 ## Information
-[NTI X Hub AI] Hub GenAI for Future Founders
+[NTI X Hub AI] Hub GenAI for Future Founders: Week 1 - Exercise 1.1
 
-Week 1 - Exercise 1.1
-
-Name: Hoang Tran Nhat Minh
+Name: **Hoang Tran Nhat Minh**
 
 GitHub repository: https://github.com/htnminh/simple-product-website
 
