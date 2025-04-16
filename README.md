@@ -36,3 +36,7 @@ replace this credit line at the bottom "© 2025 Dell Technologies. All rights re
 2. this site has no intention of selling anything
 3. every property (like images and information) on the page belongs to their respective owner, not us. we just own the frontend structure and logic of the page.
 ```
+
+## Sources
+- https://www.dell.com/en-us/shop/dell-laptops/xps-13-laptop/spd/xps-13-9345-laptop
+- https://thinkpro.vn/laptop/dell-xps-13-9345-snapdragon-x-elite?skuId=9576
